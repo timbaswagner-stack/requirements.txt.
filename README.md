@@ -1,0 +1,2 @@
+# requirements.txt.
+python-telegram-bot yt-dlp imageio-ffmpeg
